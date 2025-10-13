@@ -78,7 +78,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Henri Rousseau</dc:contributor>
 		<meta property="file-as" refines="#artist">Rousseau, Henri</meta>
