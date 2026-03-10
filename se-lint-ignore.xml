@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
 		<ignore code="t-003">
+			<line>44</line>
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-10.xhtml">
 		<ignore code="t-003">
+			<line>33</line>
 			<reason>Matched text is part of longer dialog.</reason>
 		</ignore>
 	</file>
