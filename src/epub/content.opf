@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/h-rider-haggard/king-solomons-mines</dc:identifier>
 		<dc:date>2018-04-26T17:44:13Z</dc:date>
@@ -57,13 +57,13 @@
 		<meta id="collection-1" property="belongs-to-collection">Allan Quatermain</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">Allan Quatermain leads a group of adventurers into an unknown region of Africa in a search for fame and glory.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Allan Quatermain leads a group of adventurers into an unknown region of Africa in a search for fame and glory.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;King Solomon’s Mines&lt;/i&gt; was published in September 1885, becoming an immediate best seller by tapping into people’s excitement for the unknown: in this case, the unexplored regions of Africa.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/h-rider-haggard"&gt;Haggard&lt;/a&gt; wrote the novel in a very short period, between six and sixteen months, on a bet with his brother to try to match &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island"&gt;&lt;i&gt;Treasure Island&lt;/i&gt;&lt;/a&gt;. In the process he created a new literary genre known as the “Lost World” genre, which would later influence other writers like &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Arthur Conan Doyle&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;&lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;The book tells the tale of Allan Quatermain, an adventurer and hunter, who is approached by Sir Henry Curtis and Captain Good to help them find Curtis’ lost brother, who went missing while trying to find the fabled King Solomon’s Mines.&lt;/p&gt;
 			&lt;p&gt;This book has spawned multiple adaptations in the form of movies, comics, and TV shows.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2166</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000245273</dc:source>
