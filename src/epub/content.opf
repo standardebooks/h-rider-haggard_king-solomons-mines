@@ -31,13 +31,13 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">King Solomon’s Mines</dc:title>
 		<meta property="file-as" refines="#title">King Solomon’s Mines</meta>
-		<dc:subject id="subject-1">Africa -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Missing persons -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Africa--Fiction</dc:subject>
+		<dc:subject id="subject-2">Missing persons--Fiction</dc:subject>
 		<dc:subject id="subject-3">Adventure stories</dc:subject>
-		<dc:subject id="subject-4">Treasure troves -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Hunting guides -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Diamond mines and mining -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Quatermain, Allan (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Treasure troves--Fiction</dc:subject>
+		<dc:subject id="subject-5">Hunting guides--Fiction</dc:subject>
+		<dc:subject id="subject-6">Diamond mines and mining--Fiction</dc:subject>
+		<dc:subject id="subject-7">Quatermain, Allan (Fictitious character)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007101346</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
